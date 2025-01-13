@@ -7,9 +7,5 @@ There are further options and flags to replicate the homogeneous cases.
 
 Simulation walltimes:
 
-#10s A100 times: 1024x1024: 43s 512x512: 13s   5000s: 1024 = 06:30:00, 512 = 02:00:00
-#38.5hrs for 25000s sim
-#38.5hrs for 20000s sim 9pt --array=1-7,9-25  --array=8
-
 NVIDIA A100: 100s run time ~ 600s wall time
 NVIDIA H100: 100s run time ~ 360s wall time
