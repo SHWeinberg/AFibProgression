@@ -12,4 +12,4 @@ Simulation walltimes:
 #38.5hrs for 20000s sim 9pt --array=1-7,9-25  --array=8
 
 NVIDIA A100: 100s run time ~ 600s wall time
-NVIDIA H100: 100s run time ~ 36s wall time
+NVIDIA H100: 100s run time ~ 360s wall time
