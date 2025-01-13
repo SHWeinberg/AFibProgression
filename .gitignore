@@ -1,0 +1,8 @@
+# ignore files
+*.out
+*.txt
+*.sh
+
+#folders
+saves
+.vscode
