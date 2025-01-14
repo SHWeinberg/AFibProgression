@@ -9,3 +9,5 @@ Simulation walltimes:
 
 NVIDIA A100: 100s run time ~ 600s wall time
 NVIDIA H100: 100s run time ~ 360s wall time
+
+The matlab code runs a single cell simulations and reproduces the first two panels of Figure 1.
